@@ -1,7 +1,7 @@
 'use strict'
 class Animal {
     FaireDuBruit() {
-        console.log("Un animal fait un bruit générique.")
+        console.log("Un animal fait un bruit.")
     }
 }
 
